@@ -1,2 +1,2 @@
-# stepic_task_for_-language
+# stepic_task_for_language
 Задание: запуск автотестов для разных языков интерфейса
